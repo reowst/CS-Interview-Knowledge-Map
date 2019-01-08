@@ -1,22 +1,3 @@
-<img align="center" src='./InterviewMap.png' />
-
-<h1 align="center">
-  Interview Map
-</h1>
-
-<h4 align="center">这是一份能让你更好准备下一次面试的图谱</h4>
-
-[English Version](./README-EN.md)
-
-## 小册
-
-很荣幸在「掘金」平台发售了这个开源项目的进阶版面试小册「前端面试之道」。
-
-<p align="center">
-  <img src='https://user-gold-cdn.xitu.io/2018/12/25/167e354c41bbe3ef?w=750&h=1334&f=jpeg&s=110064' width='400' />
-</p>
-
-如果需要用一句话来介绍这本小册的话，「**一年磨一剑**」应该是最好的答案了。
 
 为什么这样说呢？在出小册之前，我花了半年的时间做了一个这个开源项目。在半年的时间里，我收集了大量的一线大厂面试题，通过大数据统计出了近百个常考知识点，然后根据这些知识点写成了**近十万字**的内容。
 
